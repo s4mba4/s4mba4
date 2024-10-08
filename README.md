@@ -5,7 +5,7 @@
 About Me
 
     🕵️‍♂️ Passionate about Pentesting and CTF platforms.
-    🔐 I develop cybersecurity tools for both Red Team and Blue Team.
+    🔐 I develop cybersecurity tools ( Offensive & Defensive Security ) 
     🌐 Building networking tools
     🐍 Proficient in Python scripting and love using it for everything from hacking tools to web development.
     💻 Skilled in Bash and PowerShell scripting
