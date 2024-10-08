@@ -16,7 +16,3 @@ About Me
     Languages: Python, Bash, Powershell, C, Java, HTML/CSS, JavaScript
     Tools: Kali Linux, Wireshark, Burp Suite, Nmap, Metasploit, OWASP
     Platforms: TryHackMe, Hack The Box, RootMe, Let's Defend, YesWeHack
-
-🌟 Let's Connect!
-
-Feel free to check out my repositories or connect with me. I'm always up for collaborating on cool projects!
