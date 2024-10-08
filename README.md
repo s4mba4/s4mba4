@@ -4,8 +4,8 @@
 
 About Me
 
-    🕵️‍♂️ Passionate about Pentesting and Capture The Flag (CTF) platforms.
-    🔐 I develop cybersecurity tools for both Red Team (offensive security) and Blue Team (defensive security).
+    🕵️‍♂️ Passionate about Pentesting and CTF platforms.
+    🔐 I develop cybersecurity tools for both Red Team and Blue Team.
     🌐 Building networking tools
     🐍 Proficient in Python scripting and love using it for everything from hacking tools to web development.
     💻 Skilled in Bash and PowerShell scripting
