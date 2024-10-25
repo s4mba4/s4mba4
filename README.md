@@ -1,4 +1,8 @@
+![image](https://github.com/user-attachments/assets/921eff3e-6818-4d21-b586-18d379e84994)
+
+
 ## 👋 Hello, I'm Nathan!
+
 
 🎓 Cybersecurity Major | 🔒 Pentester | 🛠 Python Developer
 
