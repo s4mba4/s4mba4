@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c730f67f-c3d9-40d0-aa49-c5444a1051af)
+
+![luffy](https://github.com/user-attachments/assets/8555a7cf-918d-436d-ba78-3fba81b6548e)
 
 
 ## 👋 Hello, I'm Nathan!
@@ -20,3 +21,6 @@ About Me
     Languages: Python, Bash, Powershell, C, Java, HTML/CSS, JavaScript
     Tools: Kali Linux, Wireshark, Burp Suite, Nmap, Metasploit, OWASP
     Platforms: TryHackMe, Hack The Box, RootMe, Let's Defend, YesWeHack
+
+    
+![tired](https://github.com/user-attachments/assets/79c745a5-b838-4cad-b0ba-d22fd3e0f6a6)
