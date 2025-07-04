@@ -5,5 +5,5 @@
 ## 👋 Hello, I'm Nathan!
 
 
-🎓 Cybersecurity Major | 🔒 Pentester | 🔎 Forensic | 🛠 Python Developer
+🎓 Cybersecurity Major | 🔒 Pentester | 🔎 Forensic | 🐍 Python Developer
 
